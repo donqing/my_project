@@ -1,2 +1,1 @@
-
-__all__ = ["subsrc"]
+from my_project.sub_package import subsrc
